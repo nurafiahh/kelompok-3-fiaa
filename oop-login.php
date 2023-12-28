@@ -1,6 +1,6 @@
 <?php
 include("koneksi.php");
-
+#afiah
 class User
 {
     protected $password;
