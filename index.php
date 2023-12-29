@@ -35,7 +35,7 @@ include("koneksi.php");
         <b style="font-family: Futura Md BT">ONAV</b>
       </h1>
       <p style="font-family: Brush Script Std; font-size: 21px">
-        Pesan tiket hanya dengan 1 klik
+        SELAMAT UJIAN
       </p>
       <a href="tiket/index.php"><button type="button" class="btn btn-primary">Cari Tiket</button></a>
     </div>
